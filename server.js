@@ -7,13 +7,13 @@ app.use(cors());
 // Aumentamos el límite para permitir cargar archivos de excel grandes
 app.use(express.json({ limit: '50mb' })); 
 
-// 1. CONFIGURACIÓN DE LA CONEXIÓN (Mantenemos tu puerto 3308)
+// Usamos process.env para que en Render lea la base de datos de internet
 const db = mysql.createConnection({
-  host: '127.0.0.1',
-  port: 3308,
-  user: 'root',
-  password: '',
-  database: 'jjsystem'
+  host: process.env.DB_HOST || '127.0.0.1', 
+  user: process.env.DB_USER || 'root',
+  password: process.env.DB_PASSWORD || '',
+  database: process.env.DB_NAME || 'jjsystem',
+  port: process.env.DB_PORT || 3308
 });
 
 db.connect((err) => {
