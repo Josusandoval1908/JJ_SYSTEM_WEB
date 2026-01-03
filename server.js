@@ -129,3 +129,5 @@ app.post('/api/actualizar-inventario', (req, res) => {
 app.listen(3001, () => {
   console.log("🚀 Servidor unificado corriendo en el puerto 3001");
 });
+
+// mysql -h switchback.proxy.rlwy.net -u root -p PvIpftfySOebaZpLxzHywktWVPoIrIko --port 50959 --protocol=TCP railway

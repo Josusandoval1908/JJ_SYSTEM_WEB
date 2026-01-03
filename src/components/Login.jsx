@@ -5,23 +5,33 @@ export function Login({ alIngresar }) {
   const [clave, setClave] = useState("");
   const [error, setError] = useState("");
 
+  // --- CAMBIO CLAVE: Leer la URL de la variable de entorno ---
+  const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+
   const manejarEnvio = (e) => {
     e.preventDefault();
     
-    fetch('http://localhost:3001/api/login', {
+    // --- CAMBIO CLAVE: Usar API_URL en lugar de localhost ---
+    fetch(`${API_URL}/api/login`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ user, clave })
     })
-    .then(res => res.json())
+    .then(res => {
+      if (!res.ok) throw new Error("Error en respuesta del servidor");
+      return res.json();
+    })
     .then(data => {
       if (data.success) {
-        alIngresar(); // Si es correcto, avisamos a App.jsx para que cambie de pantalla
+        alIngresar(); 
       } else {
         setError(data.message);
       }
     })
-    .catch(err => setError("No hay conexión con el servidor"));
+    .catch(err => {
+      console.error("Error de conexión:", err);
+      setError("No hay conexión con el servidor");
+    });
   };
 
   return (

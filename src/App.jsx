@@ -6,9 +6,13 @@ function App() {
   const [articulos, setArticulos] = useState([]);
   const [estaLogueado, setEstaLogueado] = useState(false);
 
+  // --- CAMBIO 1: Definir la URL de la API dinámicamente ---
+  // Esto intentará leer la variable de Render, si no existe, usará localhost
+  const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+
   const obtenerArticulos = (textoABuscar = "") => {
-    // El "?buscar=" permite que el servidor filtre en la base de datos
-    fetch(`http://localhost:3001/api/articulos?buscar=${textoABuscar}`)
+    // --- CAMBIO 2: Usar la constante API_URL en el fetch ---
+    fetch(`${API_URL}/api/articulos?buscar=${textoABuscar}`)
       .then(res => {
         if (!res.ok) throw new Error("Error en la red");
         return res.json();
@@ -28,12 +32,10 @@ function App() {
     }
   }, [estaLogueado]);
 
-  // 1. Si NO está logueado
   if (!estaLogueado) {
     return <Login alIngresar={() => setEstaLogueado(true)} />;
   }
 
-  // 2. Si YA está logueado
   return (
     <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '20px', fontFamily: 'Arial' }}>
       <header style={estilos.headerSimple}>
@@ -47,9 +49,8 @@ function App() {
       />
     </div>
   );
-} // <--- Aquí quitamos el punto y coma sobrante
+}
 
-// --- ESTO ES LO QUE FALTABA Y CAUSABA EL ERROR ---
 const estilos = {
   headerSimple: { 
     textAlign: 'center', 
