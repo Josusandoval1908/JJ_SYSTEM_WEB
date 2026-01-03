@@ -1,0 +1,1 @@
+select codmovcli,ctacli.nomcli,sum(importe) AS saldo from tracob left join ctacli ON tracob.codmovcli=ctacli.codcli where emision<='20220520' group by codmovcli

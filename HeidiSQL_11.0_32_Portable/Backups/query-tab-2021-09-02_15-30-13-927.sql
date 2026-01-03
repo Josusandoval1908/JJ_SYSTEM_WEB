@@ -1,0 +1,1 @@
+SELECT c.zona,c.nomcli,t.* from tracob as t left join ctacli as c on t.cedrif=c.codcli where t.fchpago>='20210814' and  t.fchpago<='20210913'order by c.zona,t.cedrif

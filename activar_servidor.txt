@@ -1,0 +1,7 @@
+* servidor de datos 
+
+node server.js 
+
+
+* servidor web 
+npm run dev

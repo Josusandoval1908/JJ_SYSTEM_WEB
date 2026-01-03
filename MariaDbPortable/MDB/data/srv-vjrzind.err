@@ -1,0 +1,788 @@
+2020-08-28 22:50:21 2152 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 22:50:21 2152 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 22:50:21 2152 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 22:50:21 2152 [Note] InnoDB: Memory barrier is not used
+2020-08-28 22:50:21 2152 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 22:50:21 2152 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 22:50:21 2152 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 22:50:21 2152 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 22:50:21 2152 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 22:50:22 2152 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 22:50:22 2152 [Note] InnoDB: Waiting for purge to start
+2020-08-28 22:50:22 2152 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1634990
+2020-08-28 22:50:23 1260 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 22:50:23 2152 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 22:50:23 2152 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-28 22:50:23 2152 [Note] .\MDB\bin\mysqldpt: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-08-28 22:56:52 2140 [Note] .\MDB\bin\mysqldpt: Normal shutdown
+
+2020-08-28 22:56:52 2140 [Note] Event Scheduler: Purging the queue. 0 events
+2020-08-28 22:56:53 3976 [Note] InnoDB: FTS optimize thread exiting.
+2020-08-28 22:56:53 2140 [Note] InnoDB: Starting shutdown...
+2020-08-28 22:56:54 2140 [Note] InnoDB: Shutdown completed; log sequence number 1635000
+2020-08-28 22:56:54 2140 [Note] .\MDB\bin\mysqldpt: Shutdown complete
+
+2020-08-28 22:58:05 2472 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 22:58:05 2472 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 22:58:05 2472 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 22:58:05 2472 [Note] InnoDB: Memory barrier is not used
+2020-08-28 22:58:05 2472 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 22:58:05 2472 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 22:58:05 2472 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 22:58:05 2472 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 22:58:06 2472 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 22:58:06 2472 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 22:58:06 2472 [Note] InnoDB: Waiting for purge to start
+2020-08-28 22:58:06 2472 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635000
+2020-08-28 22:58:07 3376 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 22:58:07 2472 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 22:58:07 2472 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-28 22:58:07 2472 [Note] .\MDB\bin\mysqldpt: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-08-28 23:00:29 1908 [Note] .\MDB\bin\mysqldpt: Normal shutdown
+
+2020-08-28 23:00:29 1908 [Note] Event Scheduler: Purging the queue. 0 events
+2020-08-28 23:00:30 3160 [Note] InnoDB: FTS optimize thread exiting.
+2020-08-28 23:00:30 1908 [Note] InnoDB: Starting shutdown...
+2020-08-28 23:00:33 1908 [Note] InnoDB: Shutdown completed; log sequence number 1635010
+2020-08-28 23:00:33 1908 [Note] .\MDB\bin\mysqldpt: Shutdown complete
+
+2020-08-28 23:00:57 1504 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 23:00:57 1504 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 23:00:57 1504 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 23:00:57 1504 [Note] InnoDB: Memory barrier is not used
+2020-08-28 23:00:57 1504 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 23:00:57 1504 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 23:00:57 1504 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 23:00:57 1504 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 23:00:58 1504 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 23:00:58 1504 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 23:00:58 1504 [Note] InnoDB: Waiting for purge to start
+2020-08-28 23:00:58 1504 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635010
+2020-08-28 23:00:59 3652 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 23:00:59 1504 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 23:00:59 1504 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-28 23:00:59 1504 [Note] .\MDB\bin\mysqldpt: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-08-28 23:02:07 3476 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 23:02:07 3476 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 23:02:07 3476 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 23:02:07 3476 [Note] InnoDB: Memory barrier is not used
+2020-08-28 23:02:07 3476 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 23:02:07 3476 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 23:02:07 3476 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 23:02:07 3476 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 23:02:07 3476 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 23:02:07 3476 [Note] InnoDB: The log sequence numbers 1635010 and 1635010 in ibdata files do not match the log sequence number 1635020 in the ib_logfiles!
+2020-08-28 23:02:07 3476 [Note] InnoDB: Database was not shutdown normally!
+2020-08-28 23:02:07 3476 [Note] InnoDB: Starting crash recovery.
+2020-08-28 23:02:07 3476 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-08-28 23:02:07 3476 [Note] InnoDB: Restoring possible half-written data pages 
+2020-08-28 23:02:07 3476 [Note] InnoDB: from the doublewrite buffer...
+2020-08-28 23:02:09 3476 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 23:02:09 3476 [Note] InnoDB: Waiting for purge to start
+2020-08-28 23:02:09 3476 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635020
+2020-08-28 23:02:10 3872 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 23:02:10 3476 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 23:02:10 3476 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-28 23:02:11 3476 [Note] .\MDB\bin\mysqldpt: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-08-28 23:05:51 2152 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-08-28 23:22:48 3776 [Note] .\MDB\bin\mysqldpt: Normal shutdown
+
+2020-08-28 23:22:48 3776 [Note] Event Scheduler: Purging the queue. 0 events
+2020-08-28 23:22:49 3900 [Note] InnoDB: FTS optimize thread exiting.
+2020-08-28 23:22:49 3776 [Note] InnoDB: Starting shutdown...
+2020-08-28 23:22:51 3776 [Note] InnoDB: Shutdown completed; log sequence number 1635030
+2020-08-28 23:22:51 3776 [Note] .\MDB\bin\mysqldpt: Shutdown complete
+
+2020-08-31 17:22:14 3548 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-31 17:22:14 3548 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-31 17:22:14 3548 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-31 17:22:14 3548 [Note] InnoDB: Memory barrier is not used
+2020-08-31 17:22:14 3548 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-31 17:22:14 3548 [Note] InnoDB: Using generic crc32 instructions
+2020-08-31 17:22:14 3548 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-31 17:22:14 3548 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-31 17:22:14 3548 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-31 17:22:15 3548 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-31 17:22:15 3548 [Note] InnoDB: Waiting for purge to start
+2020-08-31 17:22:15 3548 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635070
+2020-08-31 17:22:15 2828 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-31 17:22:15 3548 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-31 17:22:15 3548 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-31 17:22:16 3548 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-08-31 17:22:16 3548 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-08-31 17:22:52 3640 [Note] mysqldPt.exe: Normal shutdown
+
+2020-08-31 17:22:52 3640 [Note] Event Scheduler: Purging the queue. 0 events
+2020-08-31 17:22:52 3536 [Note] InnoDB: FTS optimize thread exiting.
+2020-08-31 17:22:52 3640 [Note] InnoDB: Starting shutdown...
+2020-08-31 17:22:54 3640 [Note] InnoDB: Shutdown completed; log sequence number 1635080
+2020-08-31 17:22:54 3640 [Note] mysqldPt.exe: Shutdown complete
+
+2020-08-31 17:22:57 3444 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-31 17:22:57 3444 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-31 17:22:57 3444 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-31 17:22:57 3444 [Note] InnoDB: Memory barrier is not used
+2020-08-31 17:22:57 3444 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-31 17:22:57 3444 [Note] InnoDB: Using generic crc32 instructions
+2020-08-31 17:22:57 3444 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-31 17:22:57 3444 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-31 17:22:58 3444 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-31 17:22:58 3444 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-31 17:22:58 3444 [Note] InnoDB: Waiting for purge to start
+2020-08-31 17:22:58 3444 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635080
+2020-08-31 17:22:59 3448 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-31 17:22:59 3444 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-31 17:22:59 3444 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-31 17:22:59 3444 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-08-31 17:22:59 3444 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-08-31 17:23:05 680 [Note] mysqldPt.exe: Normal shutdown
+
+2020-08-31 17:23:05 680 [Note] Event Scheduler: Purging the queue. 0 events
+2020-08-31 17:23:05 3760 [Note] InnoDB: FTS optimize thread exiting.
+2020-08-31 17:23:05 680 [Note] InnoDB: Starting shutdown...
+2020-08-31 17:23:06 680 [Note] InnoDB: Shutdown completed; log sequence number 1635090
+2020-08-31 17:23:06 680 [Note] mysqldPt.exe: Shutdown complete
+
+2020-08-31 17:23:13 3500 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-31 17:23:13 3500 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-31 17:23:13 3500 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-31 17:23:13 3500 [Note] InnoDB: Memory barrier is not used
+2020-08-31 17:23:13 3500 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-31 17:23:13 3500 [Note] InnoDB: Using generic crc32 instructions
+2020-08-31 17:23:13 3500 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-31 17:23:13 3500 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-31 17:23:13 3500 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-31 17:23:14 3500 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-31 17:23:14 3500 [Note] InnoDB: Waiting for purge to start
+2020-08-31 17:23:14 3500 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635090
+2020-08-31 17:23:14 972 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-31 17:23:14 3500 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-31 17:23:14 3500 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-31 17:23:14 3500 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-08-31 17:23:14 3500 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-08-31 17:27:38 3940 [Note] mysqldPt.exe: Normal shutdown
+
+2020-08-31 17:27:38 3940 [Note] Event Scheduler: Purging the queue. 0 events
+2020-08-31 17:27:38 2088 [Note] InnoDB: FTS optimize thread exiting.
+2020-08-31 17:27:38 3940 [Note] InnoDB: Starting shutdown...
+2020-08-31 17:27:40 3940 [Note] InnoDB: Shutdown completed; log sequence number 1635100
+2020-08-31 17:27:40 3940 [Note] mysqldPt.exe: Shutdown complete
+
+2020-08-31 17:27:50 4044 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-31 17:27:50 4044 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-31 17:27:50 4044 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-31 17:27:50 4044 [Note] InnoDB: Memory barrier is not used
+2020-08-31 17:27:50 4044 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-31 17:27:50 4044 [Note] InnoDB: Using generic crc32 instructions
+2020-08-31 17:27:50 4044 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-31 17:27:50 4044 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-31 17:27:51 4044 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-31 17:27:51 4044 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-31 17:27:51 4044 [Note] InnoDB: Waiting for purge to start
+2020-08-31 17:27:51 4044 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635100
+2020-08-31 17:27:51 648 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-31 17:27:51 4044 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-31 17:27:51 4044 [Note] Server socket created on IP: '0.0.0.0'.
+2020-08-31 17:27:51 4044 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-08-31 17:27:52 4044 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-08-31 17:35:55 2180 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-09-22 11:28:51 3160 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-09-22 11:28:51 3160 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-09-22 11:28:51 3160 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-09-22 11:28:51 3160 [Note] InnoDB: Memory barrier is not used
+2020-09-22 11:28:51 3160 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-09-22 11:28:51 3160 [Note] InnoDB: Using generic crc32 instructions
+2020-09-22 11:28:51 3160 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-09-22 11:28:51 3160 [Note] InnoDB: Completed initialization of buffer pool
+2020-09-22 11:28:51 3160 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-09-22 11:28:51 3160 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 1635575 in the ib_logfiles!
+2020-09-22 11:28:51 3160 [Note] InnoDB: Database was not shutdown normally!
+2020-09-22 11:28:51 3160 [Note] InnoDB: Starting crash recovery.
+2020-09-22 11:28:51 3160 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-09-22 11:28:51 3160 [Note] InnoDB: Restoring possible half-written data pages 
+2020-09-22 11:28:51 3160 [Note] InnoDB: from the doublewrite buffer...
+2020-09-22 11:28:52 3160 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-09-22 11:28:52 3160 [Note] InnoDB: Waiting for purge to start
+2020-09-22 11:28:52 3160 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1635575
+2020-09-22 11:28:52 1528 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-09-22 11:28:52 3160 [Note] Plugin 'FEEDBACK' is disabled.
+2020-09-22 11:28:52 3160 [Note] Server socket created on IP: '0.0.0.0'.
+2020-09-22 11:28:53 3160 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-09-22 11:28:53 3160 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-09-22 14:55:27 2116 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-09-23 17:36:49 1956 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-09-23 17:36:49 1956 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-09-23 17:36:49 1956 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-09-23 17:36:49 1956 [Note] InnoDB: Memory barrier is not used
+2020-09-23 17:36:49 1956 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-09-23 17:36:49 1956 [Note] InnoDB: Using generic crc32 instructions
+2020-09-23 17:36:49 1956 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-09-23 17:36:49 1956 [Note] InnoDB: Completed initialization of buffer pool
+2020-09-23 17:36:49 1956 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-09-23 17:36:49 1956 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 21974129 in the ib_logfiles!
+2020-09-23 17:36:49 1956 [Note] InnoDB: Database was not shutdown normally!
+2020-09-23 17:36:49 1956 [Note] InnoDB: Starting crash recovery.
+2020-09-23 17:36:49 1956 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-09-23 17:36:50 1956 [Note] InnoDB: Restoring possible half-written data pages 
+2020-09-23 17:36:50 1956 [Note] InnoDB: from the doublewrite buffer...
+2020-09-23 17:36:51 1956 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-09-23 17:36:51 1956 [Note] InnoDB: Waiting for purge to start
+2020-09-23 17:36:51 1956 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 21974129
+2020-09-23 17:36:52 520 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-09-23 17:36:52 1956 [Note] Plugin 'FEEDBACK' is disabled.
+2020-09-23 17:36:52 1956 [Note] Server socket created on IP: '0.0.0.0'.
+2020-09-23 17:36:52 1956 [ERROR] mysqldPt.exe: Table '.\mysql\user' is marked as crashed and should be repaired
+2020-09-23 17:36:52 1956 [Warning] Checking table:   '.\mysql\user'
+2020-09-23 17:36:52 1956 [ERROR] mysql.user: 1 client is using or hasn't closed the table properly
+2020-09-23 17:36:52 1956 [ERROR] mysql.user: Size of indexfile is: 21409      Should be: 4096
+2020-09-23 17:36:52 1956 [ERROR] mysql.user: Size of datafile is: 2114       Should be: 396
+2020-09-23 17:36:52 1956 [ERROR] mysql.user: Wrong bytesec: 32-119-105 at linkstart: 396
+2020-09-23 17:36:52 1956 [ERROR] Got an error from unknown thread, ha_myisam.cc:951
+2020-09-23 17:36:52 1956 [Warning] Recovering table: '.\mysql\user'
+2020-09-23 17:36:52 1956 [ERROR] mysql.user: Wrong bytesec:  32-119-105 at 396; Skipped
+2020-09-23 17:36:52 1956 [ERROR] mysql.user: Datafile is corrupted; Restart repair with option to copy datafile
+2020-09-23 17:36:52 1956 [Note] Retrying repair of: '.\mysql\user' including modifying data file
+2020-09-23 17:36:52 1956 [ERROR] mysql.user: Wrong bytesec:  32-119-105 at 396; Skipped
+2020-09-23 17:36:52 1956 [ERROR] mysqldPt.exe: Table '.\mysql\db' is marked as crashed and should be repaired
+2020-09-23 17:36:52 1956 [Warning] Checking table:   '.\mysql\db'
+2020-09-23 17:36:52 1956 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2020-09-23 17:36:52 1956 [ERROR] mysql.db: Size of indexfile is: 9526      Should be: 9216
+2020-09-23 17:36:52 1956 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-09-23 17:36:56 1956 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-09-23 20:56:41 3520 [Note] InnoDB: Online DDL : Start
+2020-09-23 20:56:41 3520 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-09-23 20:56:41 3520 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-09-23 20:56:41 3520 [Note] InnoDB: Online DDL : Start merge-sorting index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 20.0000
+2020-09-23 20:56:41 3520 [Note] InnoDB: Online DDL : merge-sorting has estimated 13 runs
+2020-09-23 20:56:44 3520 [Note] InnoDB: Online DDL : End of  merge-sorting index `GEN_CLUST_INDEX` (1 / 1)
+2020-09-23 20:56:44 3520 [Note] InnoDB: Online DDL : Start building index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 30.0000
+2020-09-23 20:57:08 3520 [Note] InnoDB: Online DDL : End of building index `GEN_CLUST_INDEX` (1 / 1)
+2020-09-23 20:57:08 3520 [Note] InnoDB: Online DDL : Completed
+2020-09-23 20:57:25 3520 [Note] InnoDB: Online DDL : Start
+2020-09-23 20:57:25 3520 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-09-23 20:57:26 3520 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-09-23 20:57:26 3520 [Note] InnoDB: Online DDL : Start merge-sorting index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 20.0000
+2020-09-23 20:57:26 3520 [Note] InnoDB: Online DDL : merge-sorting has estimated 13 runs
+2020-09-23 20:57:28 3520 [Note] InnoDB: Online DDL : End of  merge-sorting index `GEN_CLUST_INDEX` (1 / 1)
+2020-09-23 20:57:28 3520 [Note] InnoDB: Online DDL : Start building index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 30.0000
+2020-09-23 20:57:47 3520 [Note] InnoDB: Online DDL : End of building index `GEN_CLUST_INDEX` (1 / 1)
+2020-09-23 20:57:47 3520 [Note] InnoDB: Online DDL : Completed
+2020-09-23 21:00:41 3384 [Note] InnoDB: Online DDL : Start
+2020-09-23 21:00:41 3384 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-09-23 21:00:41 3384 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-09-23 21:00:41 3384 [Note] InnoDB: Online DDL : Start merge-sorting index `ID_TRACOB` (1 / 1), estimated cost : 20.0000
+2020-09-23 21:00:41 3384 [Note] InnoDB: Online DDL : merge-sorting has estimated 13 runs
+2020-09-23 21:00:44 3384 [Note] InnoDB: Online DDL : End of  merge-sorting index `ID_TRACOB` (1 / 1)
+2020-09-23 21:00:44 3384 [Note] InnoDB: Online DDL : Start building index `ID_TRACOB` (1 / 1), estimated cost : 30.0000
+2020-09-23 21:01:02 3384 [Note] InnoDB: Online DDL : End of building index `ID_TRACOB` (1 / 1)
+2020-09-23 21:01:02 3384 [Note] InnoDB: Online DDL : Completed
+2020-09-28 10:48:32 3104 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-09-28 10:48:32 3104 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-09-28 10:48:32 3104 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-09-28 10:48:32 3104 [Note] InnoDB: Memory barrier is not used
+2020-09-28 10:48:32 3104 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-09-28 10:48:32 3104 [Note] InnoDB: Using generic crc32 instructions
+2020-09-28 10:48:32 3104 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-09-28 10:48:32 3104 [Note] InnoDB: Completed initialization of buffer pool
+2020-09-28 10:48:33 3104 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-09-28 10:48:33 3104 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 78639965 in the ib_logfiles!
+2020-09-28 10:48:33 3104 [Note] InnoDB: Database was not shutdown normally!
+2020-09-28 10:48:33 3104 [Note] InnoDB: Starting crash recovery.
+2020-09-28 10:48:33 3104 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-09-28 10:48:33 3104 [Note] InnoDB: Restoring possible half-written data pages 
+2020-09-28 10:48:33 3104 [Note] InnoDB: from the doublewrite buffer...
+2020-09-28 10:48:33 3104 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-09-28 10:48:33 3104 [Note] InnoDB: Waiting for purge to start
+2020-09-28 10:48:34 3104 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 78639965
+2020-09-28 10:48:34 1192 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-09-28 10:48:34 3104 [Note] Plugin 'FEEDBACK' is disabled.
+2020-09-28 10:48:34 3104 [Note] Server socket created on IP: '0.0.0.0'.
+2020-09-28 10:48:35 3104 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-09-28 10:48:35 3104 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-01 13:35:21 3396 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-01 13:35:21 3396 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-01 13:35:21 3396 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-01 13:35:21 3396 [Note] InnoDB: Memory barrier is not used
+2020-10-01 13:35:21 3396 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-01 13:35:21 3396 [Note] InnoDB: Using generic crc32 instructions
+2020-10-01 13:35:21 3396 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-01 13:35:21 3396 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-01 13:35:21 3396 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-01 13:35:21 3396 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 79468136 in the ib_logfiles!
+2020-10-01 13:35:21 3396 [Note] InnoDB: Database was not shutdown normally!
+2020-10-01 13:35:21 3396 [Note] InnoDB: Starting crash recovery.
+2020-10-01 13:35:21 3396 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-01 13:35:21 3396 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-01 13:35:21 3396 [Note] InnoDB: from the doublewrite buffer...
+2020-10-01 13:35:24 3396 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-01 13:35:24 3396 [Note] InnoDB: Waiting for purge to start
+2020-10-01 13:35:24 3396 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 79468136
+2020-10-01 13:35:25 2212 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-01 13:35:25 3396 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-01 13:35:25 3396 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-01 13:35:25 3396 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-01 13:35:26 3396 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-02 14:08:03 3728 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-02 14:08:03 3728 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-02 14:08:03 3728 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-02 14:08:03 3728 [Note] InnoDB: Memory barrier is not used
+2020-10-02 14:08:03 3728 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-02 14:08:03 3728 [Note] InnoDB: Using generic crc32 instructions
+2020-10-02 14:08:03 3728 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-02 14:08:04 3728 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-02 14:08:04 3728 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-02 14:08:04 3728 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 79471202 in the ib_logfiles!
+2020-10-02 14:08:04 3728 [Note] InnoDB: Database was not shutdown normally!
+2020-10-02 14:08:04 3728 [Note] InnoDB: Starting crash recovery.
+2020-10-02 14:08:04 3728 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-02 14:08:04 3728 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-02 14:08:04 3728 [Note] InnoDB: from the doublewrite buffer...
+2020-10-02 14:08:11 3728 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-02 14:08:11 3728 [Note] InnoDB: Waiting for purge to start
+2020-10-02 14:08:11 3728 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 79471202
+2020-10-02 14:08:13 3816 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-02 14:08:13 3728 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-02 14:08:13 3728 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-02 14:08:14 3728 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-02 14:08:15 3728 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-05  9:25:11 2580 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-05  9:25:11 2580 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-05  9:25:11 2580 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-05  9:25:11 2580 [Note] InnoDB: Memory barrier is not used
+2020-10-05  9:25:11 2580 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-05  9:25:11 2580 [Note] InnoDB: Using generic crc32 instructions
+2020-10-05  9:25:11 2580 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-05  9:25:11 2580 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-05  9:25:12 2580 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-05  9:25:12 2580 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 79471212 in the ib_logfiles!
+2020-10-05  9:25:12 2580 [Note] InnoDB: Database was not shutdown normally!
+2020-10-05  9:25:12 2580 [Note] InnoDB: Starting crash recovery.
+2020-10-05  9:25:12 2580 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-05  9:25:12 2580 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-05  9:25:12 2580 [Note] InnoDB: from the doublewrite buffer...
+2020-10-05  9:25:12 2580 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-05  9:25:12 2580 [Note] InnoDB: Waiting for purge to start
+2020-10-05  9:25:12 2580 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 79471212
+2020-10-05  9:25:13 2572 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-05  9:25:13 2580 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-05  9:25:13 2580 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-05  9:25:13 2580 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-05  9:25:14 2580 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-05 13:52:34 1740 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-05 13:52:34 1740 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-05 13:52:34 1740 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-05 13:52:34 1740 [Note] InnoDB: Memory barrier is not used
+2020-10-05 13:52:34 1740 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-05 13:52:34 1740 [Note] InnoDB: Using generic crc32 instructions
+2020-10-05 13:52:34 1740 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-05 13:52:34 1740 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-05 13:52:34 1740 [ERROR] InnoDB: .\ibdata1 can't be opened in read-write mode
+2020-10-05 13:52:34 1740 [ERROR] InnoDB: The system tablespace must be writable!
+2020-10-05 13:52:34 1740 [ERROR] Plugin 'InnoDB' init function returned error.
+2020-10-05 13:52:34 1740 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2020-10-05 13:52:34 1740 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-05 13:52:34 1740 [ERROR] Unknown/unsupported storage engine: InnoDB
+2020-10-05 13:52:34 1740 [ERROR] Aborting
+
+2020-10-07  7:48:05 3028 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-07  7:48:05 3028 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-07  7:48:05 3028 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-07  7:48:05 3028 [Note] InnoDB: Memory barrier is not used
+2020-10-07  7:48:05 3028 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-07  7:48:05 3028 [Note] InnoDB: Using generic crc32 instructions
+2020-10-07  7:48:05 3028 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-07  7:48:05 3028 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-07  7:48:05 3028 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-07  7:48:05 3028 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 79512720 in the ib_logfiles!
+2020-10-07  7:48:05 3028 [Note] InnoDB: Database was not shutdown normally!
+2020-10-07  7:48:05 3028 [Note] InnoDB: Starting crash recovery.
+2020-10-07  7:48:05 3028 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-07  7:48:05 3028 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-07  7:48:05 3028 [Note] InnoDB: from the doublewrite buffer...
+2020-10-07  7:48:06 3028 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-07  7:48:06 3028 [Note] InnoDB: Waiting for purge to start
+2020-10-07  7:48:06 3028 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 79512720
+2020-10-07  7:48:07 3116 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-07  7:48:07 3028 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-07  7:48:07 3028 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-07  7:48:07 3028 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-07  7:48:08 3028 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-07  7:48:29 3172 [Warning] Host name 'VJRZI' could not be resolved: Host desconocido. 
+2020-10-13  8:54:55 3084 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-13  8:54:55 3084 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-13  8:54:55 3084 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-13  8:54:55 3084 [Note] InnoDB: Memory barrier is not used
+2020-10-13  8:54:55 3084 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-13  8:54:56 3084 [Note] InnoDB: Using generic crc32 instructions
+2020-10-13  8:54:56 3084 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-13  8:54:56 3084 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-13  8:54:56 3084 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-13  8:54:56 3084 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 79513155 in the ib_logfiles!
+2020-10-13  8:54:56 3084 [Note] InnoDB: Database was not shutdown normally!
+2020-10-13  8:54:56 3084 [Note] InnoDB: Starting crash recovery.
+2020-10-13  8:54:56 3084 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-13  8:54:57 3084 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-13  8:54:57 3084 [Note] InnoDB: from the doublewrite buffer...
+2020-10-13  8:55:05 3084 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-13  8:55:05 3084 [Note] InnoDB: Waiting for purge to start
+2020-10-13  8:55:05 3084 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 79513155
+2020-10-13  8:55:06 3000 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-13  8:55:07 3084 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-13  8:55:08 3084 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-13  8:55:09 3084 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-13  8:55:10 3084 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-13 16:44:31 2604 [Note] InnoDB: Online DDL : Start
+2020-10-13 16:44:31 2604 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-10-13 16:44:31 2604 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-10-13 16:44:31 2604 [Note] InnoDB: Online DDL : Start merge-sorting index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 20.0000
+2020-10-13 16:44:31 2604 [Note] InnoDB: Online DDL : merge-sorting has estimated 2 runs
+2020-10-13 16:44:31 2604 [Note] InnoDB: Online DDL : End of  merge-sorting index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-13 16:44:31 2604 [Note] InnoDB: Online DDL : Start building index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 30.0000
+2020-10-13 16:44:42 2604 [Note] InnoDB: Online DDL : End of building index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-13 16:44:42 2604 [Note] InnoDB: Online DDL : Completed
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : Start
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2020-10-14 10:47:06 3316 [Note] InnoDB: Online DDL : Completed
+2020-10-14 11:22:27 3580 [Warning] IP address '192.168.0.176' could not be resolved: El nombre solicitado es válido pero no se encontraron datos del tipo solicitado. 
+2020-10-14 11:24:59 3580 [Note] InnoDB: Online DDL : Start
+2020-10-14 11:24:59 3580 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-10-14 11:25:01 3580 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-10-14 11:25:01 3580 [Note] InnoDB: Online DDL : Start merge-sorting index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 20.0000
+2020-10-14 11:25:01 3580 [Note] InnoDB: Online DDL : merge-sorting has estimated 8 runs
+2020-10-14 11:25:01 3580 [Note] InnoDB: Online DDL : End of  merge-sorting index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-14 11:25:01 3580 [Note] InnoDB: Online DDL : Start building index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 30.0000
+2020-10-14 11:25:15 3580 [Note] InnoDB: Online DDL : End of building index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-14 11:25:15 3580 [Note] InnoDB: Online DDL : Completed
+2020-10-14 11:36:51 2196 [Note] InnoDB: Online DDL : Start
+2020-10-14 11:36:51 2196 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-10-14 11:36:51 2196 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-10-14 11:36:51 2196 [Note] InnoDB: Online DDL : Start merge-sorting index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 20.0000
+2020-10-14 11:36:51 2196 [Note] InnoDB: Online DDL : merge-sorting has estimated 8 runs
+2020-10-14 11:36:52 2196 [Note] InnoDB: Online DDL : End of  merge-sorting index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-14 11:36:52 2196 [Note] InnoDB: Online DDL : Start building index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 30.0000
+2020-10-14 11:37:15 2196 [Note] InnoDB: Online DDL : End of building index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-14 11:37:15 2196 [Note] InnoDB: Online DDL : Completed
+2020-10-15  9:05:13 3760 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-15  9:05:13 3760 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-15  9:05:13 3760 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-15  9:05:13 3760 [Note] InnoDB: Memory barrier is not used
+2020-10-15  9:05:13 3760 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-15  9:05:13 3760 [Note] InnoDB: Using generic crc32 instructions
+2020-10-15  9:05:13 3760 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-15  9:05:13 3760 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-15  9:05:14 3760 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-15  9:05:14 3760 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108356172 in the ib_logfiles!
+2020-10-15  9:05:14 3760 [Note] InnoDB: Database was not shutdown normally!
+2020-10-15  9:05:14 3760 [Note] InnoDB: Starting crash recovery.
+2020-10-15  9:05:14 3760 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-15  9:05:15 3760 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-15  9:05:15 3760 [Note] InnoDB: from the doublewrite buffer...
+2020-10-15  9:05:22 3760 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-15  9:05:22 3760 [Note] InnoDB: Waiting for purge to start
+2020-10-15  9:05:22 3760 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108356172
+2020-10-15  9:05:23 3864 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-15  9:05:23 3760 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-15  9:05:23 3760 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-15  9:05:24 3760 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-15  9:05:25 3760 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-15 19:17:19 2876 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-15 19:17:19 2876 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-15 19:17:19 2876 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-15 19:17:19 2876 [Note] InnoDB: Memory barrier is not used
+2020-10-15 19:17:19 2876 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-15 19:17:19 2876 [Note] InnoDB: Using generic crc32 instructions
+2020-10-15 19:17:19 2876 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-15 19:17:19 2876 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-15 19:17:19 2876 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-15 19:17:19 2876 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108356182 in the ib_logfiles!
+2020-10-15 19:17:19 2876 [Note] InnoDB: Database was not shutdown normally!
+2020-10-15 19:17:19 2876 [Note] InnoDB: Starting crash recovery.
+2020-10-15 19:17:19 2876 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-15 19:17:19 2876 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-15 19:17:19 2876 [Note] InnoDB: from the doublewrite buffer...
+2020-10-15 19:17:22 2876 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-15 19:17:22 2876 [Note] InnoDB: Waiting for purge to start
+2020-10-15 19:17:22 2876 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108356182
+2020-10-15 19:17:23 352 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-15 19:17:23 2876 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-15 19:17:24 2876 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-15 19:17:25 2876 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-15 19:17:26 2876 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-16  7:37:18 3124 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-16  7:37:18 3124 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-16  7:37:18 3124 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-16  7:37:18 3124 [Note] InnoDB: Memory barrier is not used
+2020-10-16  7:37:18 3124 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-16  7:37:18 3124 [Note] InnoDB: Using generic crc32 instructions
+2020-10-16  7:37:18 3124 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-16  7:37:18 3124 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-16  7:37:18 3124 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-16  7:37:18 3124 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108356192 in the ib_logfiles!
+2020-10-16  7:37:18 3124 [Note] InnoDB: Database was not shutdown normally!
+2020-10-16  7:37:18 3124 [Note] InnoDB: Starting crash recovery.
+2020-10-16  7:37:18 3124 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-16  7:37:20 3124 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-16  7:37:20 3124 [Note] InnoDB: from the doublewrite buffer...
+2020-10-16  7:37:22 3124 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-16  7:37:22 3124 [Note] InnoDB: Waiting for purge to start
+2020-10-16  7:37:22 3124 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108356192
+2020-10-16  7:37:23 3128 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-16  7:37:23 3124 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-16  7:37:24 3124 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-16  7:37:26 3124 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-16  7:37:27 3124 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-16  7:50:41 2616 [Warning] Host name 'VJRZI' could not be resolved: Host desconocido. 
+2020-10-16  8:48:16 908 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-16  8:48:16 908 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-16  8:48:16 908 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-16  8:48:16 908 [Note] InnoDB: Memory barrier is not used
+2020-10-16  8:48:16 908 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-16  8:48:16 908 [Note] InnoDB: Using generic crc32 instructions
+2020-10-16  8:48:16 908 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-16  8:48:16 908 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-16  8:48:17 908 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-16  8:48:17 908 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108356202 in the ib_logfiles!
+2020-10-16  8:48:17 908 [Note] InnoDB: Database was not shutdown normally!
+2020-10-16  8:48:17 908 [Note] InnoDB: Starting crash recovery.
+2020-10-16  8:48:17 908 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-16  8:48:19 908 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-16  8:48:19 908 [Note] InnoDB: from the doublewrite buffer...
+2020-10-16  8:48:22 908 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-16  8:48:22 908 [Note] InnoDB: Waiting for purge to start
+2020-10-16  8:48:23 908 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108356202
+2020-10-16  8:48:24 2316 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-16  8:48:24 908 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-16  8:48:24 908 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-16  8:48:25 908 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-16  8:48:27 908 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-17  4:10:24 2848 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-17  4:10:24 2848 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-17  4:10:24 2848 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-17  4:10:24 2848 [Note] InnoDB: Memory barrier is not used
+2020-10-17  4:10:24 2848 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-17  4:10:25 2848 [Note] InnoDB: Using generic crc32 instructions
+2020-10-17  4:10:25 2848 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-17  4:10:25 2848 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-17  4:10:26 2848 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-17  4:10:26 2848 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108356460 in the ib_logfiles!
+2020-10-17  4:10:26 2848 [Note] InnoDB: Database was not shutdown normally!
+2020-10-17  4:10:26 2848 [Note] InnoDB: Starting crash recovery.
+2020-10-17  4:10:26 2848 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-17  4:10:28 2848 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-17  4:10:28 2848 [Note] InnoDB: from the doublewrite buffer...
+2020-10-17  4:10:44 2848 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-17  4:10:44 2848 [Note] InnoDB: Waiting for purge to start
+2020-10-17  4:10:44 2848 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108356460
+2020-10-17  4:10:45 3168 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-17  4:10:46 2848 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-17  4:10:47 2848 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-17  4:10:48 2848 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-17  4:10:49 2848 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-19  9:15:51 2344 [Warning] IP address '192.168.0.176' could not be resolved: El nombre solicitado es válido pero no se encontraron datos del tipo solicitado. 
+2020-10-22  7:08:12 2184 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-22  7:08:12 2184 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-22  7:08:12 2184 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-22  7:08:12 2184 [Note] InnoDB: Memory barrier is not used
+2020-10-22  7:08:12 2184 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-22  7:08:12 2184 [Note] InnoDB: Using generic crc32 instructions
+2020-10-22  7:08:12 2184 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-22  7:08:13 2184 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-22  7:08:14 2184 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-22  7:08:14 2184 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108443392 in the ib_logfiles!
+2020-10-22  7:08:14 2184 [Note] InnoDB: Database was not shutdown normally!
+2020-10-22  7:08:14 2184 [Note] InnoDB: Starting crash recovery.
+2020-10-22  7:08:14 2184 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-22  7:08:16 2184 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-22  7:08:16 2184 [Note] InnoDB: from the doublewrite buffer...
+2020-10-22  7:08:27 2184 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-22  7:08:27 2184 [Note] InnoDB: Waiting for purge to start
+2020-10-22  7:08:27 2184 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108443392
+2020-10-22  7:08:28 876 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-22  7:08:28 2184 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-22  7:08:29 2184 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-22  7:08:29 2184 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-22  7:08:31 2184 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-23  7:32:59 728 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-23  7:32:59 728 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-23  7:32:59 728 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-23  7:32:59 728 [Note] InnoDB: Memory barrier is not used
+2020-10-23  7:32:59 728 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-23  7:32:59 728 [Note] InnoDB: Using generic crc32 instructions
+2020-10-23  7:32:59 728 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-23  7:32:59 728 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-23  7:33:00 728 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-23  7:33:00 728 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108443402 in the ib_logfiles!
+2020-10-23  7:33:00 728 [Note] InnoDB: Database was not shutdown normally!
+2020-10-23  7:33:00 728 [Note] InnoDB: Starting crash recovery.
+2020-10-23  7:33:00 728 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-23  7:33:02 728 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-23  7:33:02 728 [Note] InnoDB: from the doublewrite buffer...
+2020-10-23  7:33:10 728 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-23  7:33:10 728 [Note] InnoDB: Waiting for purge to start
+2020-10-23  7:33:10 728 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108443402
+2020-10-23  7:33:11 2892 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-23  7:33:11 728 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-23  7:33:11 728 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-23  7:33:12 728 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-23  7:33:12 728 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-23 14:41:26 2796 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-23 14:41:26 2796 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-23 14:41:26 2796 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-23 14:41:26 2796 [Note] InnoDB: Memory barrier is not used
+2020-10-23 14:41:26 2796 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-23 14:41:27 2796 [Note] InnoDB: Using generic crc32 instructions
+2020-10-23 14:41:27 2796 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-23 14:41:27 2796 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-23 14:41:28 2796 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-23 14:41:29 2796 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108443412 in the ib_logfiles!
+2020-10-23 14:41:29 2796 [Note] InnoDB: Database was not shutdown normally!
+2020-10-23 14:41:29 2796 [Note] InnoDB: Starting crash recovery.
+2020-10-23 14:41:29 2796 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-23 14:41:31 2796 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-23 14:41:31 2796 [Note] InnoDB: from the doublewrite buffer...
+2020-10-23 14:41:52 2796 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-23 14:41:52 2796 [Note] InnoDB: Waiting for purge to start
+2020-10-23 14:41:52 2796 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108443412
+2020-10-23 14:41:52 3324 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-23 14:41:53 2796 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-23 14:41:53 2796 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-23 14:41:55 2796 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-23 14:41:57 2796 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-26  8:10:06 2576 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-26  8:10:06 2576 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-26  8:10:06 2576 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-26  8:10:06 2576 [Note] InnoDB: Memory barrier is not used
+2020-10-26  8:10:06 2576 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-26  8:10:06 2576 [Note] InnoDB: Using generic crc32 instructions
+2020-10-26  8:10:06 2576 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-26  8:10:07 2576 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-26  8:10:08 2576 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-26  8:10:08 2576 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 108443422 in the ib_logfiles!
+2020-10-26  8:10:08 2576 [Note] InnoDB: Database was not shutdown normally!
+2020-10-26  8:10:08 2576 [Note] InnoDB: Starting crash recovery.
+2020-10-26  8:10:08 2576 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-26  8:10:12 2576 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-26  8:10:12 2576 [Note] InnoDB: from the doublewrite buffer...
+2020-10-26  8:10:17 2576 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-26  8:10:17 2576 [Note] InnoDB: Waiting for purge to start
+2020-10-26  8:10:17 2576 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 108443422
+2020-10-26  8:10:18 3436 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-26  8:10:18 2576 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-26  8:10:18 2576 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-26  8:10:19 2576 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-26  8:10:20 2576 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-26  9:04:38 1964 [Warning] IP address '192.168.0.176' could not be resolved: El nombre solicitado es válido pero no se encontraron datos del tipo solicitado. 
+2020-10-26  9:44:38 3856 [Note] InnoDB: Online DDL : Start
+2020-10-26  9:44:38 3856 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2020-10-26  9:44:38 3856 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2020-10-26  9:44:38 3856 [Note] InnoDB: Online DDL : Start merge-sorting index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 20.0000
+2020-10-26  9:44:38 3856 [Note] InnoDB: Online DDL : merge-sorting has estimated 8 runs
+2020-10-26  9:44:38 3856 [Note] InnoDB: Online DDL : End of  merge-sorting index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-26  9:44:38 3856 [Note] InnoDB: Online DDL : Start building index `GEN_CLUST_INDEX` (1 / 1), estimated cost : 30.0000
+2020-10-26  9:44:58 3856 [Note] InnoDB: Online DDL : End of building index `GEN_CLUST_INDEX` (1 / 1)
+2020-10-26  9:44:58 3856 [Note] InnoDB: Online DDL : Completed
+2020-10-27 22:17:11 2376 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-10-27 22:17:11 2376 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-10-27 22:17:11 2376 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-27 22:17:11 2376 [Note] InnoDB: Memory barrier is not used
+2020-10-27 22:17:11 2376 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-10-27 22:17:12 2376 [Note] InnoDB: Using generic crc32 instructions
+2020-10-27 22:17:14 2376 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-10-27 22:17:15 2376 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-27 22:17:16 2376 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-27 22:17:17 2376 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 159351621 in the ib_logfiles!
+2020-10-27 22:17:17 2376 [Note] InnoDB: Database was not shutdown normally!
+2020-10-27 22:17:17 2376 [Note] InnoDB: Starting crash recovery.
+2020-10-27 22:17:17 2376 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-10-27 22:17:21 2376 [Note] InnoDB: Restoring possible half-written data pages 
+2020-10-27 22:17:21 2376 [Note] InnoDB: from the doublewrite buffer...
+2020-10-27 22:18:43 2376 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-10-27 22:18:43 2376 [Note] InnoDB: Waiting for purge to start
+2020-10-27 22:18:43 2376 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 159351621
+2020-10-27 22:18:49 3248 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-10-27 22:18:50 2376 [Note] Plugin 'FEEDBACK' is disabled.
+2020-10-27 22:18:53 2376 [Note] Server socket created on IP: '0.0.0.0'.
+2020-10-27 22:18:57 2376 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-10-27 22:19:06 2376 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-10-29  9:47:11 3152 [Warning] IP address '192.168.0.176' could not be resolved: El nombre solicitado es válido pero no se encontraron datos del tipo solicitado. 
+2020-10-30 13:03:51 1076 [Warning] Host name 'VJRZI' could not be resolved: Host desconocido. 
+2020-11-03 23:39:45 2908 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-11-03 23:39:45 2908 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-11-03 23:39:45 2908 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-03 23:39:45 2908 [Note] InnoDB: Memory barrier is not used
+2020-11-03 23:39:45 2908 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-11-03 23:39:45 2908 [Note] InnoDB: Using generic crc32 instructions
+2020-11-03 23:39:46 2908 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-11-03 23:39:46 2908 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-03 23:39:47 2908 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-11-03 23:39:47 2908 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 162656984 in the ib_logfiles!
+2020-11-03 23:39:47 2908 [Note] InnoDB: Database was not shutdown normally!
+2020-11-03 23:39:47 2908 [Note] InnoDB: Starting crash recovery.
+2020-11-03 23:39:47 2908 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-11-03 23:39:51 2908 [Note] InnoDB: Restoring possible half-written data pages 
+2020-11-03 23:39:51 2908 [Note] InnoDB: from the doublewrite buffer...
+2020-11-03 23:40:15 2908 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-11-03 23:40:15 2908 [Note] InnoDB: Waiting for purge to start
+2020-11-03 23:40:15 2908 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 162656984
+2020-11-03 23:40:15 3500 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-11-03 23:40:16 2908 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-03 23:40:16 2908 [Note] Server socket created on IP: '0.0.0.0'.
+2020-11-03 23:40:17 2908 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-11-03 23:40:19 2908 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2020-11-03 23:42:29 3620 [Warning] Host name 'VJRZI' could not be resolved: Host desconocido. 
+2020-11-04  7:08:09 3208 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-11-04  7:08:09 3208 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-11-04  7:08:09 3208 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-04  7:08:09 3208 [Note] InnoDB: Memory barrier is not used
+2020-11-04  7:08:09 3208 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-11-04  7:08:10 3208 [Note] InnoDB: Using generic crc32 instructions
+2020-11-04  7:08:10 3208 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-11-04  7:08:10 3208 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-04  7:08:11 3208 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-11-04  7:08:12 3208 [Note] InnoDB: The log sequence numbers 1635100 and 1635100 in ibdata files do not match the log sequence number 162656994 in the ib_logfiles!
+2020-11-04  7:08:12 3208 [Note] InnoDB: Database was not shutdown normally!
+2020-11-04  7:08:12 3208 [Note] InnoDB: Starting crash recovery.
+2020-11-04  7:08:12 3208 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2020-11-04  7:08:23 3208 [Note] InnoDB: Restoring possible half-written data pages 
+2020-11-04  7:08:23 3208 [Note] InnoDB: from the doublewrite buffer...
+2020-11-04  7:08:35 3208 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-11-04  7:08:35 3208 [Note] InnoDB: Waiting for purge to start
+2020-11-04  7:08:35 3208 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 162656994
+2020-11-04  7:08:36 3896 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-11-04  7:08:37 3208 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-04  7:08:37 3208 [Note] Server socket created on IP: '0.0.0.0'.
+2020-11-04  7:08:38 3208 [Warning] Found invalid password for user: '@%'; Ignoring user
+2020-11-04  7:08:41 3208 [Note] mysqldPt.exe: ready for connections.
+Version: '10.1.13-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution

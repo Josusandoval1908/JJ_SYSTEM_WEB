@@ -1,0 +1,1 @@
+SELECT regimen, regmerc FROM ctacli

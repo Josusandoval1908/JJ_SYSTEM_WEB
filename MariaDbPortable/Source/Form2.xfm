@@ -1,0 +1,134 @@
+METHOD CreateForm( lCreate ) CLASS TForm2
+
+   IF lCreate
+      ::SetBounds( 690, 268, 618, 444 )
+      ::SetClientSize( 602, 405 )
+      ::cText := "MariaDB Portable"
+      ::oFont := TFont():Create( "MS Sans Serif", 8, 0, 400 )
+      ::OnInitialize := "FormInitialize"
+      ::OnClose := "FormClose"
+      ::Create()
+   ENDIF
+   ::Super:CreateForm( .F. )
+
+   WITH OBJECT ::oMariaDBDataSource1 := TMariaDBDataSource():New( Self )
+      :cHost := "localhost"
+      :nPort := 3308
+      :cUser := "root"
+      :cDatabase := "fredy"
+      :Create()
+   END
+
+   WITH OBJECT ::oSQLTable1 := TSQLTable():New( Self )
+      :oDataSource := ::oMariaDBDataSource1
+      :cProcess := "GENERAL"
+      :cTableName := "personas"
+      :Create()
+   END
+
+   WITH OBJECT ::oButton1 := TButton():New( Self )
+      :SetBounds( 8, 316, 138, 25 )
+      :cText := "Conectar"
+      :OnClick := "Button1Click"
+      :Create()
+   END
+
+   WITH OBJECT ::oButton2 := TButton():New( Self )
+      :SetBounds( 148, 316, 74, 25 )
+      :cText := "Desconectar"
+      :OnClick := "Button2Click"
+      :Create()
+   END
+
+   WITH OBJECT ::oButton4 := TButton():New( Self )
+      :SetBounds( 12, 356, 282, 25 )
+      :cText := "Consultar estado conexión"
+      :OnClick := "Button4Click"
+      :Create()
+   END
+
+   WITH OBJECT ::oButton5 := TButton():New( Self )
+      :SetBounds( 300, 316, 282, 26 )
+      :cText := "Generar error cerrando Mariadb"
+      :OnClick := "Button5Click"
+      :Create()
+   END
+
+   WITH OBJECT ::oDBBrowse1 := TDBBrowse():New( Self )
+      :SetBounds( 8, 12, 570, 290 )
+      WITH OBJECT TDBBrwColumn():New( ::oDBBrowse1 )
+         :cHeader := "ID"
+         :nAlignment := taRIGHT
+         :nWidth := 53
+         :oDataField := "PersonID"
+         :Create()
+      END
+
+      WITH OBJECT TDBBrwColumn():New( ::oDBBrowse1 )
+         :cHeader := "Nombre"
+         :nWidth := 85
+         :nEditType := beGET
+         :oDataField := "LastName"
+         :Create()
+      END
+
+      WITH OBJECT TDBBrwColumn():New( ::oDBBrowse1 )
+         :cHeader := "Apellidos"
+         :nWidth := 92
+         :nEditType := beGET
+         :oDataField := "FirstName"
+         :Create()
+      END
+
+      WITH OBJECT TDBBrwColumn():New( ::oDBBrowse1 )
+         :cHeader := "Dirección"
+         :nWidth := 92
+         :nEditType := beGET
+         :oDataField := "Address"
+         :Create()
+      END
+
+      WITH OBJECT TDBBrwColumn():New( ::oDBBrowse1 )
+         :cHeader := "Ciudad"
+         :nWidth := 106
+         :nEditType := beGET
+         :oDataField := "City"
+         :Create()
+      END
+
+      WITH OBJECT TDBBrwColumn():New( ::oDBBrowse1 )
+         :cHeader := "Fecha"
+         :nWidth := 92
+         :nEditType := beGET
+         :oDataField := "fecha"
+         :Create()
+      END
+
+      TBrwRecSel():Create( ::oDBBrowse1 )
+
+      :nHeaderHeight := 36
+      :lAllowInsert := .T.
+      :lAllowDelete := .T.
+      :lFastEdit := .T.
+      :lFilterBar := .T.
+      :lVScroll := bsYES
+      :oDataSet := ::oSQLTable1
+      :lAutoOrder := .T.
+      :Create()
+   END
+
+   WITH OBJECT ::oButton6 := TButton():New( Self )
+      :SetBounds( 300, 356, 282, 26 )
+      :cText := "Generar error sin cerrar Mariadb"
+      :OnClick := "Button5Click"
+      :Create()
+   END
+
+   WITH OBJECT ::oButton7 := TButton():New( Self )
+      :SetBounds( 223, 316, 70, 25 )
+      :cText := "Kill"
+      :OnClick := "Button7Click"
+      :Create()
+   END
+
+RETURN Self

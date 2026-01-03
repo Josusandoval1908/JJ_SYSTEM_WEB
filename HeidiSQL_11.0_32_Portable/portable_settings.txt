@@ -1,0 +1,223 @@
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+MainWinLeft<|||>3<|||>63
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,165
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>277,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+ColWidths_frmTableEditor.listColumns<|||>1<|||>44,100,156,90,60,65,50,119,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>434,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+MainWinTop<|||>3<|||>0
+MainWinWidth<|||>3<|||>961
+MainWinMaximized<|||>3<|||>1
+CreateDbCollation<|||>1<|||>utf8_spanish2_ci
+MemoEditorWidth<|||>3<|||>136
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_Output<|||>3<|||>4
+ExportSQL_Database<|||>1<|||>filarafinancial
+ExportSQL_DataHow<|||>3<|||>2
+DateTimeEditor_CursorPos_Type4<|||>3<|||>0
+querymemoheight<|||>3<|||>125
+FilterPanel<|||>3<|||>0
+SessionManager_WindowWidth<|||>3<|||>830
+SQLFile0<|||>1<|||>C:\SISTEMAS\REACT\app_visor\HeidiSQL_11.0_32_Portable\Backups\query-tab-2025-08-25_12-36-05-653.sql
+SQLFile1<|||>1<|||>C:\SISTEMAS\PYTHON\JJSYSTEM\HeidiSQL_11.0_32_Portable\Backups\query-tab-2025-08-25_12-36-05-653.sql
+SQLFile2<|||>1<|||>C:\SISTEMAS\PYTHON\JJSYSTEM\HeidiSQL_11.0_32_Portable\Backups\query-tab-2025-08-05_23-16-56-240.sql
+Servers\Unnamed\SessionCreated<|||>1<|||>2020-11-05 09:34:07
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>8
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3308
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>5
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\ServerVersionFull<|||>1<|||>10.1.13-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>43
+Servers\Unnamed\ServerVersion<|||>3<|||>100113
+Servers\Unnamed\LastConnect<|||>1<|||>2026-01-03 09:22:43
+Servers\Unnamed\lastUsedDB<|||>1<|||>jjsystem
+Servers\Unnamed\RefusedCount<|||>3<|||>2
+Servers\Unnamed\QueryHistory\59<|||>1<|||>2025-08-05 23:25:56|jjsystem|15|USE jjsystem;<{{{><}}}><{{{><}}}>CREATE TABLE compara_precios (<{{{><}}}>    codigo VARCHAR(15) NOT NULL,<{{{><}}}>    alterno VARCHAR(15) DEFAULT NULL,<{{{><}}}>    descripcion VARCHAR(255) DEFAULT NULL,<{{{><}}}>    nomalt VARCHAR(255) DEFAULT NULL,<{{{><}}}>    pvp_dola DECIMAL(10, 2) DEFAULT NULL,<{{{><}}}>    fecha_carga DATE NOT NULL,<{{{><}}}>    PRIMARY KEY (codigo)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2025-08-06 09:23:04|jjsystem|16|SELECT codigo, descrip, pvp_dola FROM cti_haney WHERE descrip LIKE '%polea%'
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2025-08-18 14:07:08|jjsystem|47|CREATE TABLE USUARIOS (<{{{><}}}>    USER  VARCHAR(30) NOT NULL,<{{{><}}}>    CLAVE VARCHAR(10) NOT NULL,<{{{><}}}>    MAPA  VARCHAR(15),<{{{><}}}>    INICIO VARCHAR(10)<{{{><}}}>);
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2025-08-25 12:36:25|jjsystem|31|CREATE TABLE configuracion (<{{{><}}}>    id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    nombre VARCHAR(255) NOT NULL,<{{{><}}}>    rif VARCHAR(50) NOT NULL,<{{{><}}}>    direccion VARCHAR(255),<{{{><}}}>    telefono VARCHAR(50),<{{{><}}}>    correo VARCHAR(100)<{{{><}}}>);
+Servers\Unnamed-1\SessionCreated<|||>1<|||>2020-12-16 16:27:23
+Servers\Unnamed-1\Host<|||>1<|||>192.168.68.1
+Servers\Unnamed-1\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-1\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-1\User<|||>1<|||>admin
+Servers\Unnamed-1\Password<|||>1<|||>393A3B3C3D3E3F408
+Servers\Unnamed-1\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-1\Port<|||>1<|||>3308
+Servers\Unnamed-1\NetType<|||>3<|||>0
+Servers\Unnamed-1\Compressed<|||>3<|||>0
+Servers\Unnamed-1\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-1\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-1\KeepAlive<|||>3<|||>20
+Servers\Unnamed-1\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-1\Databases<|||>1<|||>
+Servers\Unnamed-1\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-1\Comment<|||>1<|||>
+Servers\Unnamed-1\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-1\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-1\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-1\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPassword<|||>1<|||>5
+Servers\Unnamed-1\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-1\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-1\SSL_Active<|||>3<|||>0
+Servers\Unnamed-1\SSL_Key<|||>1<|||>
+Servers\Unnamed-1\SSL_Cert<|||>1<|||>
+Servers\Unnamed-1\SSL_CA<|||>1<|||>
+Servers\Unnamed-1\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-1\RefusedCount<|||>3<|||>22
+Servers\Unnamed-1\ServerVersionFull<|||>1<|||>10.1.13-MariaDB - mariadb.org binary distribution
+Servers\Unnamed-1\ConnectCount<|||>3<|||>37
+Servers\Unnamed-1\ServerVersion<|||>3<|||>100113
+Servers\Unnamed-1\LastConnect<|||>1<|||>2022-05-12 08:21:31
+Servers\Unnamed-1\lastUsedDB<|||>1<|||>prueba99
+Servers\Unnamed-1\FavoriteObjects<|||>1<|||>reprocompci||gruinv<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\5<|||>1<|||>2022-04-21 11:25:08|reprocompci|79|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>SELECT * FROM ctainv WHERE codart='1B18037500017'
+Servers\Unnamed-1\QueryHistory\1<|||>1<|||>2022-04-21 11:28:03|reprocompci|62|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>SELECT * FROM CTACLI WHERE CODCLI='00023019'
+Servers\Unnamed-1\QueryHistory\2<|||>1<|||>2022-05-09 12:16:06|reprocomp01|31|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>SELECT * FROM CTACLI WHERE CODCLI='00019191'
+Servers\Unnamed-1\QueryHistory\4<|||>1<|||>2022-05-09 12:17:18|reprocomp01|47|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>SELECT * FROM encalb WHERE CLIENTE='19191'
+Servers\Unnamed-1\QueryHistory\6<|||>1<|||>2022-05-09 12:17:42|reprocomp01|31|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>SELECT * FROM CTACLI WHERE CODCLI='19191'
+Servers\Unnamed-1\QueryHistory\3<|||>1<|||>2022-05-10 15:46:17|reprocomp01|109|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>SELECT * FROM encalb where codven = '09' and emision>='2022-05-01' and emision<='2022-05-10'
+Servers\Unnamed-1\QueryHistory\7<|||>1<|||>2022-05-10 18:01:01|reprocomp01|94|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'
+Servers\Unnamed-1\QueryHistory\8<|||>1<|||>2022-05-11 10:45:09|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='2022-05-01'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\9<|||>1<|||>2022-05-11 10:46:48|reprocomp01|16|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='2022-01-01'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\10<|||>1<|||>2022-05-11 10:53:51|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='01'and codcli>='2022-01-01'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\11<|||>1<|||>2022-05-11 10:57:00|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='01004'and codcli>='2022-05-01'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\12<|||>1<|||>2022-05-11 10:57:15|reprocomp01|16|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='01004'and codcli>='2022-01-01'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\14<|||>1<|||>2022-05-11 11:05:22|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='01004'and codcli>='2020-01-01'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\13<|||>1<|||>2022-05-11 11:09:24|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='25'and codcli>='2022-05-11'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\15<|||>1<|||>2022-05-11 11:14:00|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli='01004'and codcli>='2019-08-01'and codcli<='2022-05-11'
+Servers\Unnamed-1\QueryHistory\17<|||>1<|||>2022-05-11 11:14:04|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli='01004'and codcli>='2019-08-01'and codcli<='2022-05-11'<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\16<|||>1<|||>2022-05-11 11:14:55|reprocomp01|0|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli='01004'
+Servers\Unnamed-1\QueryHistory\18<|||>1<|||>2022-05-11 11:35:38|reprocomp01|15|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli='02043'
+Servers\Unnamed-1\QueryHistory\19<|||>1<|||>2022-05-11 12:16:31|reprocomp01|47|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>select codcli, nomcli from ctacli where codcli>='00001'and codcli<='99999'
+Servers\Unnamed-1\QueryHistory\20<|||>1<|||>2022-05-12 08:25:29|prueba99|282|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>SELECT codcli, nomcli from ctacli where codcli>='00001'and codcli<='99999';<{{{><}}}>SELECT * from ctacli where codcli>='00001'and codcli<='99999' ORDER BY codcli;<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\21<|||>1<|||>2022-05-12 08:26:36|prueba99|234|#select t.codmovban,t.numdoc,t.tipban,t.fecha_mov,t.concepto,t.renalbrenalbimporte,t.tasadolar,t.dimporte,t.origen,t.hora from traban as t where t.codmovban='00002' and fecha_mov>='20220320'and fecha_mov<='20220330'<{{{><}}}>#SELECT * FROM CTACLI WHERE CODCLI='19191'<{{{><}}}>#SELECT encalb.*, ctavdd.NOMVEN FROM encalb LEFT JOIN CTAVDD ON encalb.CODVEN=ctavdd.CODVEN where encalb.codven = '09' and encalb.emision>='2022-05-01' and encalb.emision<='2022-05-10'<{{{><}}}>SELECT codcli, nomcli from ctacli where codcli>='00001'and codcli<='99999';<{{{><}}}>SELECT * from ctacli where codcli>='00001'and codcli<='99999' and grupo='02' ORDER BY codcli;<{{{><}}}>
+Servers\Unnamed-2\SessionCreated<|||>1<|||>2022-05-20 14:28:15
+Servers\Unnamed-2\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-2\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-2\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-2\User<|||>1<|||>root
+Servers\Unnamed-2\Password<|||>1<|||>4
+Servers\Unnamed-2\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-2\Port<|||>1<|||>3308
+Servers\Unnamed-2\NetType<|||>3<|||>0
+Servers\Unnamed-2\Compressed<|||>3<|||>0
+Servers\Unnamed-2\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-2\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-2\KeepAlive<|||>3<|||>20
+Servers\Unnamed-2\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-2\Databases<|||>1<|||>
+Servers\Unnamed-2\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-2\Comment<|||>1<|||>
+Servers\Unnamed-2\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-2\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-2\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-2\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelPassword<|||>1<|||>5
+Servers\Unnamed-2\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-2\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-2\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-2\SSL_Active<|||>3<|||>0
+Servers\Unnamed-2\SSL_Key<|||>1<|||>
+Servers\Unnamed-2\SSL_Cert<|||>1<|||>
+Servers\Unnamed-2\SSL_CA<|||>1<|||>
+Servers\Unnamed-2\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-2\ServerVersionFull<|||>1<|||>10.1.13-MariaDB - mariadb.org binary distribution
+Servers\Unnamed-2\ConnectCount<|||>3<|||>31
+Servers\Unnamed-2\ServerVersion<|||>3<|||>100113
+Servers\Unnamed-2\LastConnect<|||>1<|||>2023-07-26 14:44:26
+Servers\Unnamed-2\lastUsedDB<|||>1<|||>vjrcaz3comp11
+Servers\Unnamed-2\RefusedCount<|||>3<|||>5
+Servers\Unnamed-2\filarafinancial|contad\Sort<|||>1<|||>0_NUMERO|
+Servers\Unnamed-2\QueryHistory\22<|||>1<|||>2023-06-21 11:51:14|reprocomp01|13328|select t1.*,ctacli.nomcli,ctavdd.codven,ctavdd.nomven,t2.saldo from tracob as t1 right join (select tcb.numdoc as numdoc_1,tcb.emision,sum(tcb.importe) as saldo from tracob as tcb where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21' group by numdoc having saldo>0) as t2 on t1.numdoc=t2.numdoc_1 left join ctacli on t1.codmovcli=ctacli.codcli LEFT join ctavdd on t1.codven=ctavdd.codven where t1.tipo='ND' and t1.emision>='2023-01-01' and t1.emision<='2023-06-21' order by t1.codven, t1.emision
+Servers\Unnamed-2\QueryHistory\23<|||>1<|||>2023-06-21 12:09:44|reprocomp01|172|SELECT codmovcli, numdoc, emision, importe, concepto from tracob WHERE emision>=01/01/2023
+Servers\Unnamed-2\QueryHistory\24<|||>1<|||>2023-06-21 12:09:57|reprocomp01|281|SELECT codmovcli, numdoc, emision, importe, concepto from tracob WHERE emision>=01/01/2023 ORDER BY emision
+Servers\Unnamed-2\QueryHistory\25<|||>1<|||>2023-06-21 12:12:32|reprocomp01|297|SELECT codmovcli, numdoc, emision, importe, concepto, codven from tracob WHERE emision>=01/01/2023 ORDER BY emision
+Servers\Unnamed-2\QueryHistory\26<|||>1<|||>2023-06-21 12:37:39|reprocomp01|6219|select t1.codmovcli,t1.TIPO,t1.NUMDOC,t1.EMISION,t1.CODVEN,ctacli.nomcli,ctavdd.codven,ctavdd.nomven,t2.saldo from tracob as t1 <{{{><}}}>right join (select tcb.numdoc as numdoc_1,tcb.emision,sum(tcb.importe) as saldo from tracob as tcb <{{{><}}}>where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21' group by numdoc having saldo>0) as t2 on t1.numdoc=t2.numdoc_1 <{{{><}}}>left join ctacli on t1.codmovcli=ctacli.codcli LEFT join ctavdd on t1.codven=ctavdd.codven <{{{><}}}>where t1.tipo='ND' and t1.emision>='2023-01-01' and t1.emision<='2023-06-21' order by t1.codven, t1.emision
+Servers\Unnamed-2\QueryHistory\27<|||>1<|||>2023-06-21 12:38:26|reprocomp01|172|select t1.codmovcli,t1.TIPO,t1.NUMDOC,t1.EMISION,t1.CODVEN,ctacli.nomcli,ctavdd.codven,ctavdd.nomven,t2.saldo from tracob as t1 <{{{><}}}>right join (select tcb.numdoc as numdoc_1,tcb.emision,sum(tcb.importe) as saldo from tracob as tcb <{{{><}}}>where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21' having saldo>0) as t2 on t1.numdoc=t2.numdoc_1 <{{{><}}}>#where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21' group by numdoc having saldo>0) as t2 on t1.numdoc=t2.numdoc_1 <{{{><}}}>left join ctacli on t1.codmovcli=ctacli.codcli LEFT join ctavdd on t1.codven=ctavdd.codven <{{{><}}}>where t1.tipo='ND' and t1.emision>='2023-01-01' and t1.emision<='2023-06-21' order by t1.codven, t1.emision
+Servers\Unnamed-2\QueryHistory\28<|||>1<|||>2023-06-21 12:38:35|reprocomp01|172|select t1.codmovcli,t1.TIPO,t1.NUMDOC,t1.EMISION,t1.CODVEN,ctacli.nomcli,ctavdd.codven,ctavdd.nomven,t2.saldo from tracob as t1 <{{{><}}}>right join (select tcb.numdoc as numdoc_1,tcb.emision,sum(tcb.importe) as saldo from tracob as tcb <{{{><}}}>where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21') as t2 on t1.numdoc=t2.numdoc_1 <{{{><}}}>#where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21' group by numdoc having saldo>0) as t2 on t1.numdoc=t2.numdoc_1 <{{{><}}}>left join ctacli on t1.codmovcli=ctacli.codcli LEFT join ctavdd on t1.codven=ctavdd.codven <{{{><}}}>where t1.tipo='ND' and t1.emision>='2023-01-01' and t1.emision<='2023-06-21' order by t1.codven, t1.emision
+Servers\Unnamed-2\QueryHistory\29<|||>1<|||>2023-06-21 12:40:00|reprocomp01|6219|select t1.codmovcli,t1.TIPO,t1.NUMDOC,t1.EMISION,t1.CODVEN,ctacli.nomcli,ctavdd.codven,ctavdd.nomven,t2.saldo from tracob as t1 <{{{><}}}>right join (select tcb.numdoc as numdoc_1,tcb.emision,sum(tcb.importe) as saldo from tracob as tcb <{{{><}}}>where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21' group by numdoc having saldo>0) as t2 on t1.numdoc=t2.numdoc_1 <{{{><}}}>#where tcb.emision>='2023-01-01' and tcb.emision<='2023-06-21' group by numdoc having saldo>0) as t2 on t1.numdoc=t2.numdoc_1 <{{{><}}}>left join ctacli on t1.codmovcli=ctacli.codcli LEFT join ctavdd on t1.codven=ctavdd.codven <{{{><}}}>where t1.tipo='ND' and t1.emision>='2023-01-01' and t1.emision<='2023-06-21' order by t1.codven, t1.emision
+Servers\Unnamed-2\QueryHistory\30<|||>1<|||>2023-06-21 13:14:31|reprocomp01|94|SELECT codmovcli, tipo, numdoc, concepto, importe FROM tracob WHERE transacc='23031611012721104931'
+Servers\Unnamed-2\QueryHistory\31<|||>1<|||>2023-06-21 13:15:21|reprocomp01|94|SELECT codmovcli, emision, tipo, numdoc, concepto, importe FROM tracob WHERE transacc='23031611012721104931'
+Servers\Unnamed-2\QueryHistory\32<|||>1<|||>2023-06-21 13:15:34|reprocomp01|110|SELECT codmovcli, codven, emision, tipo, numdoc, concepto, importe FROM tracob WHERE transacc='23031611012721104931'
+Servers\Unnamed-2\QueryHistory\33<|||>1<|||>2023-06-21 13:16:21|reprocomp01|94|SELECT codmovcli, codven, emision, tipo, numdoc, concepto, importe FROM tracob WHERE transacc='23041311563421114931'
+Servers\Unnamed-2\QueryHistory\34<|||>1<|||>2023-07-19 11:17:48|vjrcaz3|250|delete from renfac where numfac='A0179433'
+Servers\Unnamed-2\QueryHistory\1<|||>1<|||>2023-07-19 11:22:01|vjrcaz3|63|INSERT INTO encfac set NUMFAC='A0179434',NCONTROL='00-0310733',TRANSACC='20230719111934SJ',HORA='111934',EMISION='2023-07-19',CLIENTE='*0000012',CODVEN='00043',COMEN1='',COMEN2='',TRANSPOR='',FORMAPAG='',NUMPAG='',NOMPAG='',ALMACEN='',RECARGO='S',CONDPAG=1,CODCAJ='01',NUMGIRO=12,PERGIRO=30,BASE_A=75.27,TOT_NET=75.27,DTOT_NET=2.8300,IMP_IVA=12.04,DIMP_IVA=0.4528,TOT_FAC=87.31,DTOT_FAC=3.2828,STDOLAR='S',TARIFADO='DC',TASADOLAR=26.5963,TASA2DOLAR=26.5963,CAMBIO=26.5963,USER='JOSUE SANDOVAL',NOMCLI='PERALTA HERNANDEZ YHONNY PASTOR RETIRADO                                                                                ',CIF='V013041913',DIREC1='ANDRES BELLO AL FRENTE DE',DIREC2='L LICEO SIMON PLANA BUENA',DIREC3=' VISTA VIA QUIBOR ESTADO ',DIREC4='LARA                     ',TLF1='0251-2669343   ',TLF2='0253-6949472   ',EMAIL='',VENCE='2023-08-09'
+Servers\Unnamed-2\reprocomp01|tracob\HiddenColumns<|||>1<|||>VENCE|REFER|FORMAPAG|NUMPAG|NOMPAG|CODCAJ|ORIGEN|NUMORG|MULTICAN|ASIENTO|FECHA_ASI|MULTIDOC|TIPDOCAN|INTERES|REFCON|CODDPTO|COMPROBA|BANCO|CTABANCO|REMESA|COBRADOR|HORA|CAMBIO|MONEDA|DESCUENTO|DESC_PP|IMP_ISLR|POR_RETI|IMP_RETI|POR_IVA|IMP_IVA|MONTO|IVA_COMPRO|IVA_FECHA|FCHTRAZA|NOMCLI|USER|TASADOLAR|IMPORDOL|ID_TRACOB
+Servers\Unnamed-2\reprocomp01|tracob\Sort<|||>1<|||>0_NUMDOC|0_EMISION|
+Servers\Unnamed-2\reprocomp01|tracob\RecentFilters\1<|||>1<|||>`CODMOVCLI` LIKE '%emision>=01/01/2023%' OR `TIPO` LIKE '%emision>=01/01/2023%' OR `NUMDOC` LIKE '%emision>=01/01/2023%' OR CAST(`EMISION` AS CHAR) LIKE '%emision>=01/01/2023%'<{{{><}}}> OR CAST(`VENCE` AS CHAR) LIKE '%emision>=01/01/2023%' OR `REFER` LIKE '%emision>=01/01/2023%' OR `CONCEPTO` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `IMPORTE` LIKE '%emision>=01/01/2023%' OR `FORMAPAG` LIKE '%emision>=01/01/2023%' OR `NUMPAG` LIKE '%emision>=01/01/2023%' OR `NOMPAG` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `CODCAJ` LIKE '%emision>=01/01/2023%' OR `ORIGEN` LIKE '%emision>=01/01/2023%' OR `NUMORG` LIKE '%emision>=01/01/2023%' OR `MULTICAN` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `ASIENTO` LIKE '%emision>=01/01/2023%' OR CAST(`FECHA_ASI` AS CHAR) LIKE '%emision>=01/01/2023%' OR `MULTIDOC` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `TIPDOCAN` LIKE '%emision>=01/01/2023%' OR `INTERES` LIKE '%emision>=01/01/2023%' OR `REFCON` LIKE '%emision>=01/01/2023%' OR `CODDPTO` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `COMPROBA` LIKE '%emision>=01/01/2023%' OR `BANCO` LIKE '%emision>=01/01/2023%' OR `CTABANCO` LIKE '%emision>=01/01/2023%' OR `REMESA` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `CODVEN` LIKE '%emision>=01/01/2023%' OR `COBRADOR` LIKE '%emision>=01/01/2023%' OR `HORA` LIKE '%emision>=01/01/2023%' OR `CAMBIO` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `MONEDA` LIKE '%emision>=01/01/2023%' OR `DESCUENTO` LIKE '%emision>=01/01/2023%' OR `DESC_PP` LIKE '%emision>=01/01/2023%' OR `IMP_ISLR` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `POR_RETI` LIKE '%emision>=01/01/2023%' OR `IMP_RETI` LIKE '%emision>=01/01/2023%' OR `POR_IVA` LIKE '%emision>=01/01/2023%' OR `IMP_IVA` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `MONTO` LIKE '%emision>=01/01/2023%' OR `IVA_COMPRO` LIKE '%emision>=01/01/2023%' OR CAST(`IVA_FECHA` AS CHAR) LIKE '%emision>=01/01/2023%'<{{{><}}}> OR CAST(`FCHTRAZA` AS CHAR) LIKE '%emision>=01/01/2023%' OR `TRANSACC` LIKE '%emision>=01/01/2023%' OR `NOMCLI` LIKE '%emision>=01/01/2023%'<{{{><}}}> OR `USER` LIKE '%emision>=01/01/2023%' OR `TASADOLAR` LIKE '%emision>=01/01/2023%' OR `IMPORDOL` LIKE '%emision>=01/01/2023%' OR `ID_TRACOB` LIKE '%emision>=01/01/2023%'
+Servers\Unnamed-2\reprocomp01|tracob\RecentFilters\2<|||>1<|||>tipo='ND'
+Servers\Unnamed-2\reprocomp01|tracob\RecentFilters\3<|||>1<|||>emision>=01/01/2023
+Servers\Unnamed-2\reprocomp01|tracob\RecentFilters\4<|||>1<|||>emision>='01/01/2023'
+Servers\Unnamed-2\vjrcaz3comp11|renfac\Filter<|||>1<|||>`ITEM` LIKE '%AV001VS-010%' OR `UNIDAD` LIKE '%ITEM%' OR `BULTO` LIKE '%ITEM%' OR `CANTIDAD` LIKE '%ITEM%' OR `TARIFA` LIKE '%ITEM%' OR `PRECIO` LIKE '%ITEM%'<{{{><}}}> OR `DPRECIO` LIKE '%ITEM%' OR `DEZC` LIKE '%ITEM%' OR `TOT_REN` LIKE '%ITEM%' OR `DTOT_REN` LIKE '%ITEM%' OR `DESCRIP` LIKE '%ITEM%'<{{{><}}}> OR `PESO` LIKE '%ITEM%' OR `NUMFAC` LIKE '%ITEM%' OR CAST(`EMISION` AS CHAR) LIKE '%ITEM%' OR `NUMPED` LIKE '%ITEM%' OR `NUMALB` LIKE '%ITEM%'<{{{><}}}> OR `NUMCOT` LIKE '%ITEM%' OR `NUMAPA` LIKE '%ITEM%' OR `NUMRMA` LIKE '%ITEM%' OR `NUMDEV` LIKE '%ITEM%' OR `IVA` LIKE '%ITEM%' OR `PORIVA` LIKE '%ITEM%'<{{{><}}}> OR `MONTIVA` LIKE '%ITEM%' OR `CODVEN` LIKE '%ITEM%' OR `CLIENTE` LIKE '%ITEM%' OR `CODSUC` LIKE '%ITEM%' OR `CODCON` LIKE '%ITEM%'<{{{><}}}> OR `CODDPTO` LIKE '%ITEM%' OR `ALMACEN` LIKE '%ITEM%' OR `NUMTRF` LIKE '%ITEM%' OR `USER` LIKE '%ITEM%' OR `DISPONGO` LIKE '%ITEM%'<{{{><}}}> OR `EXISTEACT` LIKE '%ITEM%' OR `ORGPRECIO` LIKE '%ITEM%' OR `OBSERVA` LIKE '%ITEM%' OR `COMISI1` LIKE '%ITEM%' OR `COMISI2` LIKE '%ITEM%'<{{{><}}}> OR `COMISI3` LIKE '%ITEM%' OR `COMISI4` LIKE '%ITEM%' OR `COMFREE1` LIKE '%ITEM%' OR `COMFREE2` LIKE '%ITEM%' OR `COMFREE3` LIKE '%ITEM%'<{{{><}}}> OR `COMFREE4` LIKE '%ITEM%' OR `OFERTA` LIKE '%ITEM%' OR `TRANSACC` LIKE '%ITEM%' OR `ST_DIVISA` LIKE '%ITEM%' OR `ST_PFLETE` LIKE '%ITEM%'<{{{><}}}> OR `RTASADOLAR` LIKE '%ITEM%' OR `ID_CTAINV` LIKE '%ITEM%' OR `ID_RENCOT` LIKE '%ITEM%' OR `ID_RENPED` LIKE '%ITEM%' OR `ID_RENALB` LIKE '%ITEM%'<{{{><}}}> OR `ID_RENFAC` LIKE '%ITEM%'<{{{><}}}>
+Servers\Unnamed-2\vjrcaz3comp11|renfac\RecentFilters\1<|||>1<|||>`ITEM` LIKE '%AV001VS-010%' OR `UNIDAD` LIKE '%ITEM%' OR `BULTO` LIKE '%ITEM%' OR `CANTIDAD` LIKE '%ITEM%' OR `TARIFA` LIKE '%ITEM%' OR `PRECIO` LIKE '%ITEM%'<{{{><}}}> OR `DPRECIO` LIKE '%ITEM%' OR `DEZC` LIKE '%ITEM%' OR `TOT_REN` LIKE '%ITEM%' OR `DTOT_REN` LIKE '%ITEM%' OR `DESCRIP` LIKE '%ITEM%'<{{{><}}}> OR `PESO` LIKE '%ITEM%' OR `NUMFAC` LIKE '%ITEM%' OR CAST(`EMISION` AS CHAR) LIKE '%ITEM%' OR `NUMPED` LIKE '%ITEM%' OR `NUMALB` LIKE '%ITEM%'<{{{><}}}> OR `NUMCOT` LIKE '%ITEM%' OR `NUMAPA` LIKE '%ITEM%' OR `NUMRMA` LIKE '%ITEM%' OR `NUMDEV` LIKE '%ITEM%' OR `IVA` LIKE '%ITEM%' OR `PORIVA` LIKE '%ITEM%'<{{{><}}}> OR `MONTIVA` LIKE '%ITEM%' OR `CODVEN` LIKE '%ITEM%' OR `CLIENTE` LIKE '%ITEM%' OR `CODSUC` LIKE '%ITEM%' OR `CODCON` LIKE '%ITEM%'<{{{><}}}> OR `CODDPTO` LIKE '%ITEM%' OR `ALMACEN` LIKE '%ITEM%' OR `NUMTRF` LIKE '%ITEM%' OR `USER` LIKE '%ITEM%' OR `DISPONGO` LIKE '%ITEM%'<{{{><}}}> OR `EXISTEACT` LIKE '%ITEM%' OR `ORGPRECIO` LIKE '%ITEM%' OR `OBSERVA` LIKE '%ITEM%' OR `COMISI1` LIKE '%ITEM%' OR `COMISI2` LIKE '%ITEM%'<{{{><}}}> OR `COMISI3` LIKE '%ITEM%' OR `COMISI4` LIKE '%ITEM%' OR `COMFREE1` LIKE '%ITEM%' OR `COMFREE2` LIKE '%ITEM%' OR `COMFREE3` LIKE '%ITEM%'<{{{><}}}> OR `COMFREE4` LIKE '%ITEM%' OR `OFERTA` LIKE '%ITEM%' OR `TRANSACC` LIKE '%ITEM%' OR `ST_DIVISA` LIKE '%ITEM%' OR `ST_PFLETE` LIKE '%ITEM%'<{{{><}}}> OR `RTASADOLAR` LIKE '%ITEM%' OR `ID_CTAINV` LIKE '%ITEM%' OR `ID_RENCOT` LIKE '%ITEM%' OR `ID_RENPED` LIKE '%ITEM%' OR `ID_RENALB` LIKE '%ITEM%'<{{{><}}}> OR `ID_RENFAC` LIKE '%ITEM%'
+Servers\Unnamed-2\vjrcaz3comp11|renfac\RecentFilters\2<|||>1<|||>`ITEM` LIKE '%AV001VS-%' OR `UNIDAD` LIKE '%ITEM%' OR `BULTO` LIKE '%ITEM%' OR `CANTIDAD` LIKE '%ITEM%' OR `TARIFA` LIKE '%ITEM%' OR `PRECIO` LIKE '%ITEM%'<{{{><}}}> OR `DPRECIO` LIKE '%ITEM%' OR `DEZC` LIKE '%ITEM%' OR `TOT_REN` LIKE '%ITEM%' OR `DTOT_REN` LIKE '%ITEM%' OR `DESCRIP` LIKE '%ITEM%'<{{{><}}}> OR `PESO` LIKE '%ITEM%' OR `NUMFAC` LIKE '%ITEM%' OR CAST(`EMISION` AS CHAR) LIKE '%ITEM%' OR `NUMPED` LIKE '%ITEM%' OR `NUMALB` LIKE '%ITEM%'<{{{><}}}> OR `NUMCOT` LIKE '%ITEM%' OR `NUMAPA` LIKE '%ITEM%' OR `NUMRMA` LIKE '%ITEM%' OR `NUMDEV` LIKE '%ITEM%' OR `IVA` LIKE '%ITEM%' OR `PORIVA` LIKE '%ITEM%'<{{{><}}}> OR `MONTIVA` LIKE '%ITEM%' OR `CODVEN` LIKE '%ITEM%' OR `CLIENTE` LIKE '%ITEM%' OR `CODSUC` LIKE '%ITEM%' OR `CODCON` LIKE '%ITEM%'<{{{><}}}> OR `CODDPTO` LIKE '%ITEM%' OR `ALMACEN` LIKE '%ITEM%' OR `NUMTRF` LIKE '%ITEM%' OR `USER` LIKE '%ITEM%' OR `DISPONGO` LIKE '%ITEM%'<{{{><}}}> OR `EXISTEACT` LIKE '%ITEM%' OR `ORGPRECIO` LIKE '%ITEM%' OR `OBSERVA` LIKE '%ITEM%' OR `COMISI1` LIKE '%ITEM%' OR `COMISI2` LIKE '%ITEM%'<{{{><}}}> OR `COMISI3` LIKE '%ITEM%' OR `COMISI4` LIKE '%ITEM%' OR `COMFREE1` LIKE '%ITEM%' OR `COMFREE2` LIKE '%ITEM%' OR `COMFREE3` LIKE '%ITEM%'<{{{><}}}> OR `COMFREE4` LIKE '%ITEM%' OR `OFERTA` LIKE '%ITEM%' OR `TRANSACC` LIKE '%ITEM%' OR `ST_DIVISA` LIKE '%ITEM%' OR `ST_PFLETE` LIKE '%ITEM%'<{{{><}}}> OR `RTASADOLAR` LIKE '%ITEM%' OR `ID_CTAINV` LIKE '%ITEM%' OR `ID_RENCOT` LIKE '%ITEM%' OR `ID_RENPED` LIKE '%ITEM%' OR `ID_RENALB` LIKE '%ITEM%'<{{{><}}}> OR `ID_RENFAC` LIKE '%ITEM%'
+Servers\Unnamed-2\vjrcaz3comp11|renfac\RecentFilters\3<|||>1<|||>`ITEM` LIKE '%ITEM%' OR `UNIDAD` LIKE '%ITEM%' OR `BULTO` LIKE '%ITEM%' OR `CANTIDAD` LIKE '%ITEM%' OR `TARIFA` LIKE '%ITEM%' OR `PRECIO` LIKE '%ITEM%'<{{{><}}}> OR `DPRECIO` LIKE '%ITEM%' OR `DEZC` LIKE '%ITEM%' OR `TOT_REN` LIKE '%ITEM%' OR `DTOT_REN` LIKE '%ITEM%' OR `DESCRIP` LIKE '%ITEM%'<{{{><}}}> OR `PESO` LIKE '%ITEM%' OR `NUMFAC` LIKE '%ITEM%' OR CAST(`EMISION` AS CHAR) LIKE '%ITEM%' OR `NUMPED` LIKE '%ITEM%' OR `NUMALB` LIKE '%ITEM%'<{{{><}}}> OR `NUMCOT` LIKE '%ITEM%' OR `NUMAPA` LIKE '%ITEM%' OR `NUMRMA` LIKE '%ITEM%' OR `NUMDEV` LIKE '%ITEM%' OR `IVA` LIKE '%ITEM%' OR `PORIVA` LIKE '%ITEM%'<{{{><}}}> OR `MONTIVA` LIKE '%ITEM%' OR `CODVEN` LIKE '%ITEM%' OR `CLIENTE` LIKE '%ITEM%' OR `CODSUC` LIKE '%ITEM%' OR `CODCON` LIKE '%ITEM%'<{{{><}}}> OR `CODDPTO` LIKE '%ITEM%' OR `ALMACEN` LIKE '%ITEM%' OR `NUMTRF` LIKE '%ITEM%' OR `USER` LIKE '%ITEM%' OR `DISPONGO` LIKE '%ITEM%'<{{{><}}}> OR `EXISTEACT` LIKE '%ITEM%' OR `ORGPRECIO` LIKE '%ITEM%' OR `OBSERVA` LIKE '%ITEM%' OR `COMISI1` LIKE '%ITEM%' OR `COMISI2` LIKE '%ITEM%'<{{{><}}}> OR `COMISI3` LIKE '%ITEM%' OR `COMISI4` LIKE '%ITEM%' OR `COMFREE1` LIKE '%ITEM%' OR `COMFREE2` LIKE '%ITEM%' OR `COMFREE3` LIKE '%ITEM%'<{{{><}}}> OR `COMFREE4` LIKE '%ITEM%' OR `OFERTA` LIKE '%ITEM%' OR `TRANSACC` LIKE '%ITEM%' OR `ST_DIVISA` LIKE '%ITEM%' OR `ST_PFLETE` LIKE '%ITEM%'<{{{><}}}> OR `RTASADOLAR` LIKE '%ITEM%' OR `ID_CTAINV` LIKE '%ITEM%' OR `ID_RENCOT` LIKE '%ITEM%' OR `ID_RENPED` LIKE '%ITEM%' OR `ID_RENALB` LIKE '%ITEM%'<{{{><}}}> OR `ID_RENFAC` LIKE '%ITEM%'
+Servers\Unnamed-2\vjrcaz3comp11|renfac\RecentFilters\4<|||>1<|||>ITE

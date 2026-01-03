@@ -1,0 +1,79 @@
+2020-08-28 18:00:07 7008 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 18:00:07 7008 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 18:00:07 7008 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 18:00:07 7008 [Note] InnoDB: Memory barrier is not used
+2020-08-28 18:00:07 7008 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 18:00:07 7008 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 18:00:07 7008 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 18:00:07 7008 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 18:00:07 7008 [Note] InnoDB: Setting log file .\ib_logfile101 size to 48 MB
+2020-08-28 18:00:08 7008 [Note] InnoDB: Setting log file .\ib_logfile1 size to 48 MB
+2020-08-28 18:00:09 7008 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-08-28 18:00:09 7008 [Warning] InnoDB: New log files created, LSN=1632278
+2020-08-28 18:00:09 7008 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 18:00:09 7008 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 18:00:09 7008 [Note] InnoDB: Waiting for purge to start
+2020-08-28 18:00:09 7008 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1632780
+2020-08-28 18:00:09 6636 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 18:00:09 7008 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 18:00:09 7008 [Note] Server socket created on IP: '::'.
+2020-08-28 18:00:43 6744 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 18:00:43 6744 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 18:00:43 6744 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 18:00:43 6744 [Note] InnoDB: Memory barrier is not used
+2020-08-28 18:00:43 6744 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 18:00:43 6744 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 18:00:43 6744 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 18:00:43 6744 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 18:00:44 6744 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 18:00:44 6744 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 18:00:44 6744 [Note] InnoDB: Waiting for purge to start
+2020-08-28 18:00:44 6744 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1632790
+2020-08-28 18:00:44 7832 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 18:00:44 6744 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 18:00:44 6744 [Note] Server socket created on IP: '::'.
+2020-08-28 18:01:20 1804 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 18:01:20 1804 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 18:01:20 1804 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 18:01:20 1804 [Note] InnoDB: Memory barrier is not used
+2020-08-28 18:01:20 1804 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 18:01:20 1804 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 18:01:20 1804 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 18:01:20 1804 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 18:01:20 1804 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 18:01:21 1804 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 18:01:21 1804 [Note] InnoDB: Waiting for purge to start
+2020-08-28 18:01:21 1804 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1632800
+2020-08-28 18:01:21 1044 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 18:01:21 1804 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 18:01:21 1804 [Note] Server socket created on IP: '::'.
+2020-08-28 22:37:00 10224 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 22:37:00 10224 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 22:37:00 10224 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 22:37:00 10224 [Note] InnoDB: Memory barrier is not used
+2020-08-28 22:37:00 10224 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 22:37:00 10224 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 22:37:00 10224 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 22:37:00 10224 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 22:37:00 10224 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 22:37:00 10224 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 22:37:00 10224 [Note] InnoDB: Waiting for purge to start
+2020-08-28 22:37:00 10224 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1632810
+2020-08-28 22:37:00 3972 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 22:37:00 10224 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 22:37:00 10224 [Note] Server socket created on IP: '::'.
+2020-08-28 22:38:23 7800 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2020-08-28 22:38:23 7800 [Note] InnoDB: The InnoDB memory heap is disabled
+2020-08-28 22:38:23 7800 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-08-28 22:38:23 7800 [Note] InnoDB: Memory barrier is not used
+2020-08-28 22:38:23 7800 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2020-08-28 22:38:23 7800 [Note] InnoDB: Using generic crc32 instructions
+2020-08-28 22:38:23 7800 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2020-08-28 22:38:23 7800 [Note] InnoDB: Completed initialization of buffer pool
+2020-08-28 22:38:23 7800 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-08-28 22:38:23 7800 [Note] InnoDB: 128 rollback segment(s) are active.
+2020-08-28 22:38:23 7800 [Note] InnoDB: Waiting for purge to start
+2020-08-28 22:38:23 7800 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.28-76.1 started; log sequence number 1632820
+2020-08-28 22:38:23 3876 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2020-08-28 22:38:23 7800 [Note] Plugin 'FEEDBACK' is disabled.
+2020-08-28 22:38:23 7800 [Note] Server socket created on IP: '::'.
