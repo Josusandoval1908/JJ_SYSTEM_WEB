@@ -9,13 +9,12 @@ app.use(cors());
 app.use(express.json({ limit: '50mb' })); 
 
 // 2. CONEXIÓN A BASE DE DATOS (CORREGIDA PARA RENDER/RAILWAY)
-// Forzamos el uso de variables de entorno para evitar que busque el localhost de tu PC
+// Usamos parseInt para el puerto 50959 de Railway
 const dbConfig = {
   host: process.env.DB_HOST,
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
   database: process.env.DB_NAME,
-  // Convertimos a número porque Railway usa el puerto 50959
   port: parseInt(process.env.DB_PORT) || 3306 
 };
 
@@ -24,7 +23,7 @@ const db = mysql.createConnection(dbConfig);
 db.connect((err) => {
   if (err) {
     console.error('❌ Error fatal de conexión:', err.message);
-    // Este log te dirá en Render qué datos está intentando usar
+    // Log para depurar qué valores está leyendo Render
     console.log('Intentando conectar a:', dbConfig.host, 'Puerto:', dbConfig.port);
     return;
   }
