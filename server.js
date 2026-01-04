@@ -3,28 +3,35 @@ import mysql from 'mysql2';
 import cors from 'cors';
 
 const app = express();
-app.use(cors());
-// Aumentamos el límite para permitir cargar archivos de excel grandes
+
+// 1. CONFIGURACIÓN INICIAL
+app.use(cors()); 
 app.use(express.json({ limit: '50mb' })); 
 
-// Usamos process.env para que en Render lea la base de datos de internet
-const db = mysql.createConnection({
-  host: process.env.DB_HOST || '127.0.0.1', 
-  user: process.env.DB_USER || 'root',
-  password: process.env.DB_PASSWORD || '',
-  database: process.env.DB_NAME || 'jjsystem',
-  port: process.env.DB_PORT || 3308
-});
+// 2. CONEXIÓN A BASE DE DATOS (CORREGIDA PARA RENDER/RAILWAY)
+// Forzamos el uso de variables de entorno para evitar que busque el localhost de tu PC
+const dbConfig = {
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_NAME,
+  // Convertimos a número porque Railway usa el puerto 50959
+  port: parseInt(process.env.DB_PORT) || 3306 
+};
+
+const db = mysql.createConnection(dbConfig);
 
 db.connect((err) => {
   if (err) {
-    console.error('Error conectando a MariaDB:', err);
+    console.error('❌ Error fatal de conexión:', err.message);
+    // Este log te dirá en Render qué datos está intentando usar
+    console.log('Intentando conectar a:', dbConfig.host, 'Puerto:', dbConfig.port);
     return;
   }
-  console.log('✅ Servidor conectado a MariaDB (jjsystem)');
+  console.log('✅ Servidor conectado exitosamente a Railway');
 });
 
-// 2. RUTA PARA EL LOGIN
+// 3. RUTA PARA EL LOGIN
 app.post('/api/login', (req, res) => {
   const { user, clave } = req.body;
   const sql = "SELECT * FROM usuarios WHERE user = ? AND clave = ?";
@@ -43,13 +50,9 @@ app.post('/api/login', (req, res) => {
   });
 });
 
-
-
-// 3. RUTA PARA OBTENER ARTÍCULOS
+// 4. RUTA PARA OBTENER ARTÍCULOS
 app.get('/api/articulos', (req, res) => {
-  const termino = req.query.buscar || ""; // Recibe lo que escribes en el buscador
-  
-  // Buscamos por código O por descripción
+  const termino = req.query.buscar || ""; 
   const sql = `
     SELECT codigo, descrip, pvp_dola, existencia 
     FROM ctainv 
@@ -67,67 +70,33 @@ app.get('/api/articulos', (req, res) => {
   });
 });
 
-
-
-
-// --- NUEVA SECCIÓN: CARGAR EXCEL Y REEMPLAZAR INVENTARIO ---
+// 5. RUTA ACTUALIZAR INVENTARIO
 app.post('/api/actualizar-inventario', (req, res) => {
   const articulos = req.body;
+  if (!articulos || articulos.length === 0) return res.status(400).json({ success: false });
 
-  if (!articulos || articulos.length === 0) {
-    return res.status(400).json({ success: false, mensaje: "No se recibieron datos" });
-  }
-
-  // Usamos una transacción para asegurar que si algo falla, no se borre el inventario anterior
   db.beginTransaction((err) => {
-    if (err) return res.status(500).json({ success: false, mensaje: "Error de transacción" });
+    if (err) return res.status(500).json({ success: false });
 
-    // 1. Vaciamos la tabla
     db.query("DELETE FROM ctainv", (err) => {
-      if (err) {
-        return db.rollback(() => {
-          res.status(500).json({ success: false, mensaje: "Error al limpiar tabla" });
-        });
-      }
+      if (err) return db.rollback(() => res.status(500).json({ success: false }));
 
-      // 2. Preparamos la inserción masiva
       const sqlInsert = "INSERT INTO ctainv (codigo, descrip, pvp_dola, costo_dola, marca, existencia) VALUES ?";
-      
-      // Transformamos el objeto de React en una matriz para mysql2
-      const valores = articulos.map(art => [
-        art.codigo, 
-        art.descrip, 
-        art.pvp_dola, 
-        art.costo_dola, 
-        art.marca, 
-        art.existencia
-      ]);
+      const valores = articulos.map(art => [art.codigo, art.descrip, art.pvp_dola, art.costo_dola, art.marca, art.existencia]);
 
       db.query(sqlInsert, [valores], (err) => {
-        if (err) {
-          return db.rollback(() => {
-            console.error("Error al insertar:", err);
-            res.status(500).json({ success: false, mensaje: "Error al insertar nuevos datos" });
-          });
-        }
-
+        if (err) return db.rollback(() => res.status(500).json({ success: false }));
         db.commit((err) => {
-          if (err) {
-            return db.rollback(() => {
-              res.status(500).json({ success: false, mensaje: "Error al confirmar cambios" });
-            });
-          }
-          console.log(`📦 Inventario actualizado: ${articulos.length} registros cargados.`);
-          res.json({ success: true, mensaje: "Inventario reemplazado con éxito" });
+          if (err) return db.rollback(() => res.status(500).json({ success: false }));
+          res.json({ success: true });
         });
       });
     });
   });
 });
 
-// 4. INICIO DEL SERVIDOR
-app.listen(3001, () => {
-  console.log("🚀 Servidor unificado corriendo en el puerto 3001");
+// 6. INICIO DEL SERVIDOR (PUERTO DINÁMICO PARA RENDER)
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, () => {
+  console.log(`🚀 Servidor corriendo en el puerto ${PORT}`);
 });
-
-// mysql -h switchback.proxy.rlwy.net -u root -p PvIpftfySOebaZpLxzHywktWVPoIrIko --port 50959 --protocol=TCP railway
